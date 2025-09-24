@@ -38,3 +38,8 @@ AltmanAI‑SuperCortex serves as a foundational “central nervous system” for
 - Replace the synthetic data generator with real datasets (e.g., MNIST) in `cortex/training.py`.
 - Introduce more sophisticated models and training strategies.
 - Expand the orchestrator to manage multiple models, datasets, and tasks across the AltmanAI ecosystem.
+
+## Sovereign Leadership
+
+AltmanAI‑SuperCortex is developed under the vision and leadership of **Blake Hunter Altman**, Sovereign Leader of the Altman Family Group. His ambition and guidance drive the partnership between human ingenuity and artificial intelligence that makes this project possible.
+
